@@ -1,0 +1,19 @@
+{
+  "name": "mock-loader",
+  "version": "0.1.0",
+  "description": "Mock loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vejersele/mock-loader.git"
+  },
+  "author": "Jelle Versele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vejersele/mock-loader/issues"
+  },
+  "homepage": "https://github.com/vejersele/mock-loader#readme"
+}
