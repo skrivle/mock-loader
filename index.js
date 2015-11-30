@@ -1,7 +1,7 @@
 /**
  * Webpack Mock Loader
  *
- * This loader transforms the source code of module so that is gets wrapped
+ * This loader transforms the source code of a module so that is gets wrapped
  * with an injector function. This injector will provide us with the possiblity
  * to mock the dependencies of the original module.
  *
