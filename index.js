@@ -84,7 +84,7 @@ module.exports = function(rawSource) {
     // altered __define__() method gets called
     var source = rawSource.replace('define', 'return __define__');
 
-    // insert module source code into the injector
+    // convert the injector to a string and insert module source code
     var injectorString = injector.toString().replace('__SOURCE_PLACEHOLDER__', source);
 
     // start with the original define block in order to retrieve all
