@@ -2,8 +2,8 @@
 
 Webpack mock loader for AMD modules only.
 
-Inspired by (proxy-loader)[https://github.com/c-dante/proxy-loader] and 
-(inject-loader)[https://github.com/plasticine/inject-loader] but since they 
+Inspired by [proxy-loader](https://github.com/c-dante/proxy-loader) and 
+[inject-loader](https://github.com/plasticine/inject-loader) but since they 
 both lack descent support for AMD modules, this module was created.
 
 ## Usage
