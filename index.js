@@ -17,7 +17,7 @@
  * ) {
  *
  *     var myMock = {
- *          mehtod: function () {
+ *          method: function () {
  *               return true;
  *          }
  *     };
