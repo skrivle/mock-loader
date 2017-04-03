@@ -35,7 +35,7 @@ module.exports = function(rawSource) {
 
     // regex to parse out the define block including
     // all dependencies
-    var DEFINE_REGEX = /define\(((.*\n)*)\)/;
+    var DEFINE_REGEX = /define\(\[[\s\S]*?\)/;
 
 
     // this function will be returned by the mocked module
