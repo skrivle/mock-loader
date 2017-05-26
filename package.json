@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vejersele/mock-loader/issues"
   },
-  "homepage": "https://github.com/vejersele/mock-loader#readme"
+  "homepage": "https://github.com/vejersele/mock-loader#readme",
+  "dependencies": {
+    "babel-core": "^6.24.1"
+  }
 }
